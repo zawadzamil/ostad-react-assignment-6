@@ -1,3 +1,24 @@
-.navbar-brand {
-    color: red ;
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+a{
+    width: 100%;
+    margin: auto;
+    font-size: 3rem !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.displayText{
+    margin: auto;
+    background-color: rgb(249, 249, 167);
+    padding: 2rem 1rem;
+}
+.container{
+    justify-content: center;
+}
+
+.footer{
+    background-color: rgb(24, 22, 22);
+    height: fit-content;
 }
